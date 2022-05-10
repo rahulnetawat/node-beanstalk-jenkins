@@ -8,18 +8,16 @@ Contains:
   * A Dockerfile to deploy with Docker locally or in the cloud
   * Kubernetes yaml files for creating a service and a load balancer.
 
-# TBD 
+# TBD (To Use Local)
 
 A better app.
 
 ### Install
-
 ```
 npm install
 ```
 
 ### Start
-
 ```
 npm start
 ```
