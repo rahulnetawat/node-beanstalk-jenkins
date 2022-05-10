@@ -8,8 +8,7 @@ Contains:
   * A Dockerfile to deploy with Docker locally or in the cloud
   * Kubernetes yaml files for creating a service and a load balancer.
 
-# TBD (To Use Local)
-
+# TBD (To test on Local PC)
 A better app.
 
 ### Install
